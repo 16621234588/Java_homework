@@ -5,7 +5,7 @@ import java.util.concurrent.CompletableFuture;
  * 异步运行一个方法，拿到这个方法的返回值后，退出主线程？
  * 写出你的方法，越多越好，提交到github。
  * <p>
- * 5、CompletableFuture实现方式
+ * 7、CompletableFuture实现方式
  */
 public class CompletableFutureMethod {
     public static void main(String[] args) {

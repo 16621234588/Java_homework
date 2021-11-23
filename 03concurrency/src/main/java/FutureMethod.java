@@ -4,7 +4,7 @@ import java.util.concurrent.*;
  * 异步运行一个方法，拿到这个方法的返回值后，退出主线程？
  * 写出你的方法，越多越好，提交到github。
  *
- * 3、Future实现方式
+ * 5、Future实现方式
  */
 public class FutureMethod implements Callable<Integer> {
 
