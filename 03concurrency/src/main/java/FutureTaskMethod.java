@@ -7,7 +7,7 @@ import java.util.concurrent.FutureTask;
  * 异步运行一个方法，拿到这个方法的返回值后，退出主线程？
  * 写出你的方法，越多越好，提交到github。
  *
- * 2、FutureTask方式实现
+ * 4、FutureTask方式实现
  */
 public class FutureTaskMethod {
     static class Get implements Callable<Integer> {
